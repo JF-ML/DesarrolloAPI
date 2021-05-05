@@ -1,0 +1,4 @@
+applications:
+  - name: jf-tareas-api-client
+    memory: 64M
+    buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
